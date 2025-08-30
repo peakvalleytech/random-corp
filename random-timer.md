@@ -1,4 +1,4 @@
-** Random Timer Privacy Policy **
+**Random Timer Privacy Policy**
 
 Random Corp. built the Random Timer app as an Ad Supported app. This SERVICE is provided by Random Corp. at no cost and is intended for use as is.
 
