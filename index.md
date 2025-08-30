@@ -21,6 +21,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Random Number Generator](random-number-generator)
 
+[Random Timer Generator](random-timer)
+
 [Random Wikipedia](random-wikipedia) 
 
 [Reboot Now](reboot-now)
