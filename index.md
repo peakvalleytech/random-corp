@@ -13,6 +13,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [App Man](app-man)
 
+[Bens Tracker](mood-tracker)
+
 [Longtail](longtail)
 
 [Random App](randomapp)
