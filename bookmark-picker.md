@@ -1,5 +1,4 @@
-*Bookmar Picker - Random Picker*
-**Privacy Policy**
+**Bookmark Picker - Random Picker Privacy Policy**
 
 This privacy policy applies to the Bookmark Picker - Random Picker app for mobile devices, together with any related services operated by Random Corp - The Random Company (collectively, the "Application"). Random Corp - The Random Company is hereby referred to as the "Service Provider".
 
