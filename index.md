@@ -19,6 +19,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Longtail](longtail)
 
+[Priorities - Monthly Planner](monthly)
+
 [Random App](randomapp)
 
 [Random Lists](random-lists)
