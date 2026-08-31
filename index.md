@@ -37,4 +37,6 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Remind - Random Notifications](random-notifications)
 
+[Skill Tracker](skill-tracker)
+
 [Text Walls](text-walls)
