@@ -21,6 +21,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Priorities - Monthly Planner](monthly)
 
+[Pro Con Decider](procon)
+
 [Random App](randomapp)
 
 [Random Lists](random-lists)
