@@ -15,6 +15,8 @@ Our lives are built around our decisions, some of these decision are based off o
 
 [Bens Tracker](mood-tracker)
 
+[Book Randomizer](random-book-picker)
+
 [Bookmark Pikcer](bookmark-picker)
 
 [Longtail](longtail)
@@ -24,8 +26,6 @@ Our lives are built around our decisions, some of these decision are based off o
 [Pro Con Decider](procon)
 
 [Random App](randomapp)
-
-[Book Randomizer](random-book-picker)
 
 [Random Lists](random-lists)
 
