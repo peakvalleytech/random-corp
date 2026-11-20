@@ -1,9 +1,3 @@
----
-layout: default
-title: Book Randomizer Privacy Policy
-permalink: /privacy-policy/ 
----
-
 # Book Randomizer Privacy Policy
 
 Random Corp. built the Book Randomizer app as an Ad Supported app. This SERVICE is provided by Random Corp. at no cost and is intended for use as is.
